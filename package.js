@@ -1,7 +1,7 @@
 Package.describe({
     name: 'kroman0:fullcalendar',
     summary: "Meteor-package of FullCalendar.io with Scheduler-plugin",
-    version: "3.3.1_1",
+    version: "3.8.2",
     git: "https://github.com/kroman0/meteor-fullcalendar-scheduler.git"
 });
 
